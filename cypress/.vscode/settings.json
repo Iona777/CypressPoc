@@ -1,0 +1,7 @@
+{
+    "cucumberautocomplete.steps": [
+        "E2E/Examples/BDD/webElementPractice/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "E2E/Examples/BDD//*feature", 
+    "cucumberautocomplete.strictGherkinCompletion": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cypresspoc",
+  "version": "1.0.0",
+  "description": "Proof of concept Cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iona777/CypressPoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iona777/CypressPoc/issues"
+  },
+  "homepage": "https://github.com/Iona777/CypressPoc#readme",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "@cypress/browserify-preprocessor": "latest",
+    "cypress": "latest"
+  }
+}
